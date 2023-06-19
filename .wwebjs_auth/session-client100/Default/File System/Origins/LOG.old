@@ -1,0 +1,5 @@
+2023/06/19-12:51:43.580 ecc Creating DB C:\Users\berio\OneDrive\Desktop\TheWhatsAppPlatform\MessageSpace-App-Backend\.wwebjs_auth\session-client100\Default\File System\Origins since it was missing.
+2023/06/19-12:51:43.607 ecc Reusing MANIFEST C:\Users\berio\OneDrive\Desktop\TheWhatsAppPlatform\MessageSpace-App-Backend\.wwebjs_auth\session-client100\Default\File System\Origins/MANIFEST-000001
+2023/06/19-12:51:43.608 ecc Recovering log #3
+2023/06/19-12:51:43.609 ecc Reusing old log C:\Users\berio\OneDrive\Desktop\TheWhatsAppPlatform\MessageSpace-App-Backend\.wwebjs_auth\session-client100\Default\File System\Origins/000003.log 
+2023/06/19-12:51:43.609 ecc Delete type=2 #4
